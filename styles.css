@@ -1,2 +1,11 @@
 /* Move your styles here when you're ready to clean up your HTML file */
+html {
+  font-size: 16px;
+}
+h1, h2 {
+  font-family: GillSans, Calibri, Trebuchet, sans-serif;
+}
+header {
+  border-bottom: 3px solid black;
+}
 /* Don't forget to link to this file in your HTML, otherwise your styles won't show up! */
